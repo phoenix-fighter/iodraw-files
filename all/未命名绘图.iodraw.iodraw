@@ -40,11 +40,14 @@
         <mxCell id="Ae_87yNK0fZrdiEWbXXo-10" value="招商管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ae_87yNK0fZrdiEWbXXo-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ae_87yNK0fZrdiEWbXXo-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Ae_87yNK0fZrdiEWbXXo-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="440" as="sourcePoint" />
-            <mxPoint x="200" y="460" as="targetPoint" />
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="200" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ae_87yNK0fZrdiEWbXXo-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
