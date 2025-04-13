@@ -26,8 +26,14 @@
         <mxCell id="Ae_87yNK0fZrdiEWbXXo-89" value="修改房产资源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Ae_87yNK0fZrdiEWbXXo-72">
           <mxGeometry x="70" y="280" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ae_87yNK0fZrdiEWbXXo-91" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Ae_87yNK0fZrdiEWbXXo-72">
+        <mxCell id="Ae_87yNK0fZrdiEWbXXo-91" value="查看基础信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Ae_87yNK0fZrdiEWbXXo-72">
           <mxGeometry x="70" y="350" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_87yNK0fZrdiEWbXXo-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Ae_87yNK0fZrdiEWbXXo-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="380" as="sourcePoint" />
+            <mxPoint x="60" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ae_87yNK0fZrdiEWbXXo-73" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-620" y="330" width="30" height="60" as="geometry" />
