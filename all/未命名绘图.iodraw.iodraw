@@ -70,17 +70,7 @@
           <mxGeometry x="550" y="630" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aLNJy_i8WeZpGHb7GAsO-8" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="460" y="210" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aLNJy_i8WeZpGHb7GAsO-9" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aLNJy_i8WeZpGHb7GAsO-8" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="610" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aLNJy_i8WeZpGHb7GAsO-10" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aLNJy_i8WeZpGHb7GAsO-8" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="470" y="470" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="440" y="210" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
