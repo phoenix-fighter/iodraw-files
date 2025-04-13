@@ -80,6 +80,10 @@
         <mxCell id="aLNJy_i8WeZpGHb7GAsO-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aLNJy_i8WeZpGHb7GAsO-18" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="550" />
+              <mxPoint x="301" y="590" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
