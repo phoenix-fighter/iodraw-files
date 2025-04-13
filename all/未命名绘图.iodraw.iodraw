@@ -7,10 +7,10 @@
         <mxCell id="Ae_87yNK0fZrdiEWbXXo-1" value="学山物业管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ae_87yNK0fZrdiEWbXXo-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ae_87yNK0fZrdiEWbXXo-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.448;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ae_87yNK0fZrdiEWbXXo-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="370" as="sourcePoint" />
-            <mxPoint x="180" y="320" as="targetPoint" />
+            <mxPoint x="40" y="420" as="sourcePoint" />
+            <mxPoint x="20" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
