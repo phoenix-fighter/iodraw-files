@@ -85,9 +85,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aLNJy_i8WeZpGHb7GAsO-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLNJy_i8WeZpGHb7GAsO-19">
+        <mxCell id="aLNJy_i8WeZpGHb7GAsO-20" value="退出登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLNJy_i8WeZpGHb7GAsO-19">
           <mxGeometry x="0.0567" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLNJy_i8WeZpGHb7GAsO-21" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aLNJy_i8WeZpGHb7GAsO-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aLNJy_i8WeZpGHb7GAsO-21" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
