@@ -90,7 +90,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aLNJy_i8WeZpGHb7GAsO-21" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="aLNJy_i8WeZpGHb7GAsO-21" value="更新数据库" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="400" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aLNJy_i8WeZpGHb7GAsO-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aLNJy_i8WeZpGHb7GAsO-21">
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aLNJy_i8WeZpGHb7GAsO-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLNJy_i8WeZpGHb7GAsO-22">
+        <mxCell id="aLNJy_i8WeZpGHb7GAsO-23" value="修改密码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLNJy_i8WeZpGHb7GAsO-22">
           <mxGeometry x="0.5643" y="2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
