@@ -36,9 +36,20 @@
         <mxCell id="zPlCuWpXw-wKAdCtaaYK-32" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zPlCuWpXw-wKAdCtaaYK-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="zPlCuWpXw-wKAdCtaaYK-32" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="260" as="targetPoint" />
+        <mxCell id="zPlCuWpXw-wKAdCtaaYK-35" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="460" y="340" as="targetPoint" />
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="340" />
+              <mxPoint x="460" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPlCuWpXw-wKAdCtaaYK-36" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="320" y="420" as="targetPoint" />
+            <mxPoint x="320" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
