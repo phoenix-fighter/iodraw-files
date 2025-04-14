@@ -36,9 +36,6 @@
         <mxCell id="zPlCuWpXw-wKAdCtaaYK-32" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zPlCuWpXw-wKAdCtaaYK-38" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="250" y="310" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="zPlCuWpXw-wKAdCtaaYK-39" value="查找" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="490" y="179.58" as="targetPoint" />
@@ -55,7 +52,7 @@
             <mxPoint x="549" y="200.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zPlCuWpXw-wKAdCtaaYK-41" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="zPlCuWpXw-wKAdCtaaYK-41" value="错误，重新输入" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="490" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zPlCuWpXw-wKAdCtaaYK-42" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="zPlCuWpXw-wKAdCtaaYK-41" parent="1">
