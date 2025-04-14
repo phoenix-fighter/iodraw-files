@@ -57,7 +57,7 @@
         </mxCell>
         <mxCell id="zPlCuWpXw-wKAdCtaaYK-42" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="zPlCuWpXw-wKAdCtaaYK-41" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="370" as="targetPoint" />
+            <mxPoint x="50" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zPlCuWpXw-wKAdCtaaYK-43" value="登陆成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -96,8 +96,8 @@
         </mxCell>
         <mxCell id="zPlCuWpXw-wKAdCtaaYK-63" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="360" as="targetPoint" />
-            <mxPoint x="300" y="330" as="sourcePoint" />
+            <mxPoint x="60" y="360" as="targetPoint" />
+            <mxPoint x="550" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
