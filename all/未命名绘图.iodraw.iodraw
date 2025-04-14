@@ -13,6 +13,11 @@
             <mxPoint x="70" y="174.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zPlCuWpXw-wKAdCtaaYK-14" value="登陆系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zPlCuWpXw-wKAdCtaaYK-12">
+          <mxGeometry x="-0.608" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
