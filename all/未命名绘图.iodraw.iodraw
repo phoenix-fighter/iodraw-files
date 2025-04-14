@@ -69,6 +69,11 @@
             <mxPoint x="610" y="179.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zPlCuWpXw-wKAdCtaaYK-47" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zPlCuWpXw-wKAdCtaaYK-46">
+          <mxGeometry x="-0.439" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
