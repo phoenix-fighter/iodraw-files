@@ -21,6 +21,9 @@
         <mxCell id="zPlCuWpXw-wKAdCtaaYK-15" value="开始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="25" y="190" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zPlCuWpXw-wKAdCtaaYK-16" value="输入用户名和密码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="155" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
